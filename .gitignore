@@ -1,0 +1,8 @@
+# Node Modules 
+node_modules
+# Folders
+test
+#Files
+
+# Build
+dist
